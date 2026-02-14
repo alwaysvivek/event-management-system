@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# node
+node_modules/
+.next/
+npm-debug.log*
+
+# ide
+.vscode/
+.idea/
+*.swp
+.DS_Store
